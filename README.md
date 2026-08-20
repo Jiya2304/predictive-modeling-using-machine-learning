@@ -215,37 +215,17 @@ The comparison includes:
 
 ![Model Comparison](images/model_comparison.png)
 
----
-
 ### Random Forest Confusion Matrix
 
 ![Confusion Matrix](images/random_forest_confusion_matrix.png)
-
----
 
 ### ROC Curve Comparison
 
 ![ROC Curve](images/roc_curve_comparison.png)
 
----
-
 ### Feature Importance
 
 ![Feature Importance](images/feature_importance.png)
-
----
-
-## 🔍 Feature Importance
-
-Random Forest was used to identify which features contributed most to the prediction.
-
-The feature importance results are saved in:
-
-```text
-outputs/feature_importance.csv
-```
-
----
 
 ## 💾 Saved Model
 
